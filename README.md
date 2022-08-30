@@ -1,6 +1,6 @@
 # ![](https://raw.githubusercontent.com/belencerezo/belencerezo/master/cherry.png) Hello, my name is Belen Cerezo
 
-![](https://raw.githubusercontent.com/belencerezo/belencerezo/master/belencerezo_image.png)
+![](https://raw.githubusercontent.com/belencerezo/belencerezo/master/1.png)
 
 I am passionate about technology! 💻
 
